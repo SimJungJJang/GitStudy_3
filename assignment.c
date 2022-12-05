@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//Coded by Wonho_Kim
 double Max(double *, int);
 
 int main(void)
